@@ -10,18 +10,22 @@ _“A Health Care Informed customer needs to be able to_ **_find patient visit i
 
 **Guidelines**
 
-- Don’t spend too long on it (<=4 hours) and keep things simple
-- Think of this like an open source project. Create a repo on Github, use git for source control, and use README.md to document what you built for the newcomer to your project, create PR’s etc like you normally would.
-- Don’t worry about doing authentication or anything outside the scope of the search functionality. 
-- You only need to write one test for front-end & back-end and add comments/talk about where you’d add more - no need to code more than that, we’re just looking for an idea of how you think about testing
-- Please deploy to Azure using whatever services you feel are appropriate so we can use it. Use free tier services they dont need to be always on.
+* Don’t spend too long on it (<=4 hours) and keep things simple
+* Think of this like an open source project. Create a repo on Github, use git for source control, and use README.md to document what you built for the newcomer to your project, create PR’s etc like you normally would.
+* Don’t worry about doing authentication or anything outside the scope of the search functionality. 
+* You only need to write one test for front-end & back-end and add comments/talk about where you’d add more - no need to code more than that, we’re just looking for an idea of how you think about testing
+* Please deploy to Azure using whatever services you feel are appropriate so we can use it. Use free tier services.
+* What I'm mainly looking for:
+  * You structure your front and back end code well so it's clean, modular & well organised. Attention to detail important.
+  * You understand the customer requirement and make sensible trade offs for feature quality versus keeping it simple.
+  * It's easy for me to test the deployed version and run the code locally.
 
 
 **Next:** 
 
-- When you’re done, send us a link to the Github project and the Azure website: vinny.lawlor\@hci.care - it will be reviewed by engineering and the CTO within 2 days.
+* When you’re done, send us a link to the Github project and the Azure website: vinny.lawlor\@hci.care - it will be reviewed by engineering and the CTO within 2 days.
 
 <!---->
 
-- In the next interview stage we will talk to you about your code and do a systems design type question - we’ll talk about your choices, and what decisions/trade offs you’d make as the system scales.
-- No coding required in the face to face but we want to see how you think about problem solving when customer constraints change - it’ll be more of a system design discussion.
+* In the next interview stage we will talk to you about your code and do a systems design type question - we’ll talk about your choices, and what decisions/trade offs you’d make as the system scales.
+* No coding required in the face to face but we want to see how you think about problem solving when customer constraints change - it’ll be more of a system design discussion.
