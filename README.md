@@ -12,9 +12,10 @@ _“A Health Care Informed customer needs to be able to_ **_find patient visit i
 
 - Don’t spend too long on it (<=4 hours) and keep things simple
 - Think of this like an open source project. Create a repo on Github, use git for source control, and use README.md to document what you built for the newcomer to your project, create PR’s etc like you normally would.
-- Don’t worry about doing auth or anything outside the scope of the search functionality
+- Don’t worry about doing authentication or anything outside the scope of the search functionality. 
 - You only need to write one test for front-end & back-end and add comments/talk about where you’d add more - no need to code more than that, we’re just looking for an idea of how you think about testing
-- Please deploy to Azure using whatever services you feel are appropriate so we can use it
+- Please deploy to Azure using whatever services you feel are appropriate so we can use it. Use free tier services they dont need to be always on.
+
 
 **Next:** 
 
