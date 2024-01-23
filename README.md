@@ -10,7 +10,7 @@ _“A Health Care Informed customer needs to be able to_ **_find patient visit i
 
 **Guidelines**
 
-* Don’t spend too long on it (~4 hours) and keep things simple.
+* Don’t spend too long on it (~4 hours) and keep things simple. Tihs is not a time limit if you're learning things from scratch it might take longer.
 * Don’t worry about:
   * Authentication 
   * Adding tests
