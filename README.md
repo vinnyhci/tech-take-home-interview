@@ -6,24 +6,29 @@ So instead of coding at a whiteboard with someone watching over your shoulder un
 
 The Brief:
 
-_“A Health Care Informed customer needs to be able to_ **_find patient visit information_** _at one of their hospitals. Create a simple web application using React, Typescript, C# and a relational database that allows a customer to_ **_search_** _patient/hospital visit information and display results. The application should have a very simple styled UX, some simple API’s and a basic DB schema”._
+_“A Health Care Informed customer needs to be able to_ **_find patient visit information_** _at one of their hospitals. Create a simple web application using React, Typescript, C# and an in-memory relational database that allows a customer to_ **_search_** _patient/hospital visit information and display results. The application should have a very simple styled UX, some simple API’s and a basic DB structure”._
 
 **Guidelines**
 
-* Don’t spend too long on it (<=4 hours) and keep things simple
-* Think of this like an open source project. Create a repo on Github, use git for source control, and use README.md to document what you built for the newcomer to your project, create PR’s etc like you normally would.
-* Don’t worry about doing authentication or anything outside the scope of the search functionality. 
-* You only need to write one test for front-end & back-end and add comments/talk about where you’d add more - no need to code more than that, we’re just looking for an idea of how you think about testing
-* Please deploy to Azure using whatever services you feel are appropriate so we can use it. Use free tier services.
+* Don’t spend too long on it (~4 hours) and keep things simple.
+* Don’t worry about:
+  * Authentication 
+  * Adding tests
+* Do:
+  *  Solve the customer problem. 
+  *  Well packaged and easy for us to test
+  *  Clearly communicate any assumptions you want to make
+  *  Spend your time in the right places
+  *  Deploy to Azure - use free tier services.
 * What I'm mainly looking for:
   * You structure your front and back end code well so it's clean, modular & well organised. Attention to detail important.
-  * You understand the customer requirement and make sensible trade offs for feature quality versus keeping it simple.
-  * It's easy for me to test the deployed version and run the code locally.
-
+  * You understand the customer requirement and make sensible trade offs for feature quality versus **keeping it simple**.
+  * How easy is it for me to test and run
+* Think of this like an open source project. Create a repo on Github, use git for source control, and use README.md to document what you built for the newcomer to your project, create PR’s etc like you normally would.
 
 **Next:** 
 
-* When you’re done, send us a link to the Github project and the Azure website: vinny.lawlor\@hci.care - it will be reviewed by engineering and the CTO within 2 days.
+* When you’re done, **send us a link to the Github project and the Azure website** vinny.lawlor@hci.care - it will be reviewed by engineering and the CTO within 2 days.
 
 <!---->
 
