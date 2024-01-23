@@ -6,7 +6,7 @@ So instead of coding at a whiteboard with someone watching over your shoulder un
 
 The Brief:
 
-_“A Health Care Informed customer needs to be able to_ **_find patient visit information_** _at one of their hospitals. Create a simple web application using React, Typescript, C# and an in-memory relational database that allows a customer to_ **_search_** _patient/hospital visit information and display results. The application should have a very simple styled UX, some simple API’s and a basic DB structure”._
+_“A Health Care Informed customer needs to be able to_ **_find patient visit information_** _at one of their hospitals. Create a simple web application using React, Typescript, C# and a DB that allows a customer to_ **_search_** _patient/hospital visit information and display results. The application should have a very simple styled UX, some simple API’s and a basic DB structure”._
 
 **Guidelines**
 
@@ -18,7 +18,7 @@ _“A Health Care Informed customer needs to be able to_ **_find patient visit i
   *  Solve the customer problem. 
   *  Well packaged and easy for us to test
   *  Clearly communicate any assumptions you want to make
-  *  Spend your time in the right places
+  *  Spend your time in the right places - e.g. use an in memory DB if it's faster for you.
   *  Deploy to Azure - use free tier services.
 * What I'm mainly looking for:
   * You structure your front and back end code well so it's clean, modular & well organised. Attention to detail important.
