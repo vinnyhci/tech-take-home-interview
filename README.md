@@ -19,7 +19,7 @@ _“A Health Care Informed customer needs to be able to_ **_find patient visit i
   *  The deliverable is well packaged and easy for us to test
   *  Clearly communicate any assumptions you want to make, shortcuts you take etc.
   *  Spend your time in the right places based on your strengths - e.g. use an in memory DB if it's faster for you, or find an easy way to provide data to the application
-  *  Record a [Loom](https://www.loom.com/) (max 5 mins) OR deploy to Azure [free tier services](https://azure.microsoft.com/en-us/pricing/free-services) so we can see what it looks like
+  *  Share a screen recording with a short demo of the application (max 5 mins - can use [Loom](https://www.loom.com/)) OR deploy to Azure [free tier services](https://azure.microsoft.com/en-us/pricing/free-services) so we can see what it looks like. Whatever works better for you.
 * What I'm mainly looking for:
   * You structure your front and back end code well so it's clean, modular & well organised. Attention to detail important.
   * How do the well do the components talk to each other on FE, API's and BE structure. These interfaces are important.
